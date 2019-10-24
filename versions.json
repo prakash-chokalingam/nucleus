@@ -4,5 +4,11 @@
     "name": "master",
     "sha": "8a53ee184eef4e8c7b2a836155a52f1181b88296",
     "tag": null
+  },
+  "nucleus-modal": {
+    "path": "versions/nucleus-modal",
+    "name": "nucleus-modal",
+    "sha": "825c14026f4d3b51ff23bb09646cdb020d4617c1",
+    "tag": null
   }
 }
