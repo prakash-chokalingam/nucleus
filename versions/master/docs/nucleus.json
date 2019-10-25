@@ -1,1 +1,1 @@
-{"jsonapi":{"version":"1.0"},"data":{"type":"project","id":"nucleus","attributes":{"name":"nucleus","version":"0.0.0","navigationIndex":[]},"relationships":{"modules":{"data":[]}}}}
+{"jsonapi":{"version":"1.0"},"data":{"type":"project","id":"nucleus","attributes":{"name":"nucleus","version":"0.1.0","navigationIndex":[]},"relationships":{"modules":{"data":[]}}}}
