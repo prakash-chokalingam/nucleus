@@ -16,5 +16,11 @@
     "name": "nucleus-toast-message",
     "sha": "28c7b93474673c98f7c25e2b7bf331407d94529e",
     "tag": null
+  },
+  "nucleus-inline-banner": {
+    "path": "versions/nucleus-inline-banner",
+    "name": "nucleus-inline-banner",
+    "sha": "9600105812ba3dccb98312e086779b43196ed06f",
+    "tag": null
   }
 }
