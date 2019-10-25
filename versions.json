@@ -10,5 +10,11 @@
     "name": "nucleus-modal",
     "sha": "a633b35c32e89aa6ebb4ef26b4616c6a16cd9d57",
     "tag": null
+  },
+  "nucleus-toast-message": {
+    "path": "versions/nucleus-toast-message",
+    "name": "nucleus-toast-message",
+    "sha": "28c7b93474673c98f7c25e2b7bf331407d94529e",
+    "tag": null
   }
 }
