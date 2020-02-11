@@ -4,5 +4,11 @@
     "name": "master",
     "sha": "1f3bc9b84f374ba194cfa66d386c978fd33d2213",
     "tag": null
+  },
+  "release/v.0.4.x": {
+    "path": "versions/release/v.0.4.x",
+    "name": "release/v.0.4.x",
+    "sha": "bddc51bbdbc90070cdf1ee07a7ea9880e608959f",
+    "tag": null
   }
 }
